@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">點餐系統</string>
+    <string name="str0">歡迎光臨蟹堡王</string>
+    <string name="str1">進入點餐系統</string>
+    <string name="str2">您點的餐點有：</string>
+    <string name="str3">總共：</string>
+    <string name="str4">請輸入送餐時間：</string>
+    <string name="str5">請輸入送餐地址:</string>
+    <string name="btn_show">結帳</string>
+    <string name="total_set">總金額</string>
+    <string name="time_set">取餐時間</string>
+    <string name="address_set">送餐地址</string>
+
+    <string name="btn_return">返回</string>
+</resources>
